@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 
 export default defineConfig({
-  site: 'https://fluffy0714.github.io/site',
+  site: 'https://fluffy0714.github.io/',
   base: '/site',
   output: 'static',
 
@@ -39,4 +39,7 @@ export default defineConfig({
       cssMinify: 'lightningcss',
     },
   },
+  server: {
+    open: true,
+  }
 });
