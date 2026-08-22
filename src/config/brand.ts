@@ -17,7 +17,8 @@ export const brand = {
   name: 'Small Business Starter',
   tagline: 'Professional service you can trust.',
   description:
-    'A fast, mobile-first small-business website template built with Astro 6 and Tailwind v4. Fully customisable for any trade or service business.',
+    //A fast, mobile-first small-business website template built with Astro 6 and Tailwind v4. 
+    'Fully customisable for any trade or service business.',
   url: 'https://example.com',
   locale: 'en_US',
 
