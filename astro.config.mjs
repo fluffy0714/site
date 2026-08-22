@@ -5,7 +5,8 @@ import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 
 export default defineConfig({
-  site: 'https://www.example.com',
+  site: 'https://fluffy0714.github.io/',
+  base: '/site',
   output: 'static',
 
   integrations: [sitemap(), robotsTxt()],
