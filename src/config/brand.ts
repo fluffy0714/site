@@ -15,7 +15,7 @@
 export const brand = {
   // ── Site Identity ──────────────────────────────────────────────────────────
   name: 'Small Business Starter',
-  tagline: 'Professional service you can trust.',
+  tagline: 'Профессиональная компания которой Вы можете доверять.',
   description:
     //A fast, mobile-first small-business website template built with Astro 6 and Tailwind v4. 
     'Fully customisable for any trade or service business.',
