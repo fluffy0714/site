@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 import robotsTxt from 'astro-robots-txt';
 
 export default defineConfig({
-  site: 'https://fluffy0714.github.io/site',
+  site: 'https://sun-technik.ru',
   base: '/site',
   output: 'static',
 
