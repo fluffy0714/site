@@ -1,33 +1,33 @@
 ---
-title: "5 Signs You Need to Call a Plumber"
-description: "Don't ignore these warning signs. Learn when a plumbing issue needs professional attention before it becomes a costly emergency."
-author: "Team"
+title: "5 признаков того, что пора вызвать сантехника"
+description: "Не игнорируйте эти предупреждающие знаки. Узнайте, когда проблема с сантехникой требует профессионального вмешательства, прежде чем она станет дорогостоящей аварийной ситуацией."
+author: "Команда"
 date: 2026-02-15
-tags: ["tips", "plumbing"]
+tags: ["советы", "сантехника"]
 ---
 
-Some plumbing problems are easy to spot, but others sneak up on you. Here are five signs that it's time to call a professional.
+Некоторые проблемы с сантехнией легко заметить, но другие подкрадываются незаметно. Вот пять признаков того, что пора вызвать профессионала.
 
-## 1. Slow or Recurring Drains
+## 1. Медленный или повторяющийся засор
 
-A single slow drain is often a minor clog. But if multiple drains in your home are sluggish at the same time, it could indicate a deeper issue in your main sewer line.
+Одинокий медленный слив часто является небольшой засором. Но если несколько сливов в вашем доме замедлены одновременно, это может указывать на более глубокую проблему в вашей главной канализационной линии.
 
-## 2. Low Water Pressure
+## 2. Низкое давление воды
 
-If your water pressure has dropped noticeably, there may be a hidden leak, a failing pressure regulator, or mineral buildup in your pipes. A plumber can diagnose the root cause quickly.
+Если давление воды заметно упало, возможно, есть скрытая утечка, неисправный регулятор давления или минеральные отложения в ваших трубах. Сантехник может быстро диагностировать первопричину.
 
-## 3. Discolored Water
+## 3. Изменённый цвет воды
 
-Brown or yellow water coming from your taps usually means corroded pipes. This is especially common in older homes and should be addressed promptly to protect your water quality.
+Коричневая или жёлтая вода из кранов обычно означает корродированные трубы. Это особенно распространено в старых домах и должно быть решено promptly, чтобы защитить качество вашей воды.
 
-## 4. Unusual Sounds
+## 4. Необычные звуки
 
-Gurgling noises from drains or banging sounds when you turn off a faucet (known as "water hammer") are signs of air in the pipes or loose fittings.
+Булькающие звуки из сливов или стукующие звуки, когда вы выключаете кран (известные как "гидроудар"), являются признаками воздуха в трубах или ослабленных соединений.
 
-## 5. Persistent Damp Spots
+## 5. Стойкие влажные пятна
 
-Wet patches on walls, ceilings, or floors that won't dry could be a sign of a hidden leak. Left unchecked, these leaks can cause mold growth and structural damage.
+Влажные пятна на стенах, потолках или полах, которые не высыхают, могут быть признаком скрытой утечки. Без внимания эти утечки могут вызвать рост плесени и структурные повреждения.
 
-## When in Doubt, Call
+## Если сомневаетесь — звоните
 
-It's always better to catch a plumbing issue early. A quick inspection can save you thousands in emergency repairs down the road.
+Всегда лучше выявить проблему с сантехникой рано. Быстрая проверка может сэкономить вам тысячи на аварийном ремонте в будущем.

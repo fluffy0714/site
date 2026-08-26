@@ -1,37 +1,37 @@
 ---
-title: "Spring Landscaping Tips for Homeowners"
-description: "Get your yard ready for the season with these practical spring landscaping tips that boost curb appeal and property value."
-author: "Team"
+title: "Советы по весеннему ландшафтному дизайну для домовладельцев"
+description: "Подготовьте свой участок к сезону с помощью этих практических советов по весеннему ландшафтному дизайну, которые повысят привлекательность и стоимость дома."
+author: "Команда"
 date: 2026-02-01
-tags: ["tips", "landscaping"]
+tags: ["советы", "ландшафтный дизайн"]
 ---
 
-Spring is the perfect time to refresh your yard. Whether you're preparing to sell or simply want to enjoy your outdoor space, these tips will help you make the most of the season.
+Весна — идеальное время, чтобы обновить ваш двор. Независимо от того, готовитесь ли вы к продаже или просто хотите наслаждаться своим открытым пространством, эти советы помогут вам извлечь максимум из сезона.
 
-## Clean Up Winter Debris
+## Уберите зимний мусор
 
-Start by clearing fallen branches, dead leaves, and any leftover debris from winter storms. This gives your lawn room to breathe and helps prevent mold and pest issues.
+Начните с очистки веток, мёртвых листьев и любого оставшегося мусора от зимних штормов. Это даёт вашему газону возможность дышать и помогает предотвратить проблемы с плесенью и вредителями.
 
-## Inspect Your Irrigation System
+## Проверьте систему орошения
 
-Before turning on sprinklers for the season, check for cracked pipes, misaligned heads, and clogged nozzles. A quick inspection now prevents wasted water and brown spots later.
+Прежде чем включать спринклеры на сезон, проверьте наличие треснувших труб, смещённых насадок и засорённых форсунок. Быстрая проверка сейчас предотвратит потерю воды и коричневые пятна позже.
 
-## Edge Your Beds and Walkways
+## Нарежьте края грядок и дорожек
 
-Clean, defined edges make a huge visual difference. Use a half-moon edger along garden beds and walkways for a crisp, professional look that frames your lawn.
+Чистые, чёткие края делают большую визуальную разницу. Используйте полукруглый нож для окантовки вдоль цветочных грядок и дорожек для получения аккуратного, профессионального вида, который обрамляет ваш газон.
 
-## Mulch Garden Beds
+## Замульчируйте цветочные грядки
 
-A fresh layer of mulch (2–3 inches) suppresses weeds, retains moisture, and gives beds a polished appearance. Choose a natural color that complements your home's exterior.
+Свежий слой мульчи (5–7 см) подавляет сорняки, удерживает влагу и придаёт грядкам отполированный вид. Выберите натуральный цвет, который дополняет экстерьер вашего дома.
 
-## Plan Before You Plant
+## Планируйте перед посадкой
 
-Resist the urge to buy plants impulsively. Consider your yard's sun exposure, soil type, and maintenance commitment. Native plants are often the best choice — they thrive with less water and care.
+Не поддавайтесь искушению покупать растения импульсивно. Учитывайте освещённость вашего двора, тип почвы и уровень обслуживания. Родные растения часто являются лучшим выбором — они процветают с меньшим количеством воды и ухода.
 
-## Don't Forget the Hardscape
+## Не забывайте о твёрдых покрытиях
 
-Power-wash driveways, walkways, and patios to remove winter grime. Small repairs to cracked pavers or loose stones are quick wins that improve safety and curb appeal.
+Промойте дорожки, тротуары и патио под давлением, чтобы удалить зимнюю грязь. Мелкий ремонт треснувшей брусчатки или слабых камней — это быстрые улучшения, которые повышают безопасность и привлекательность.
 
-## Get Professional Help
+## Обратитесь за профессиональной помощью
 
-For larger projects — grading, drainage, tree removal, or full landscape design — hiring a professional ensures the work is done safely and to code. Most offer free consultations, so don't hesitate to ask.
+Для крупных проектов — планирование рельефа, дренаж, удаление деревьев или полный ландшафтный дизайн — найм профессионала гарантирует, что работа выполнена безопасно и по нормам. Большинство предлагают бесплатные консультации, поэтому не стесняйтесь спрашивать.

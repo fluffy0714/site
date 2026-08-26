@@ -14,20 +14,19 @@
 
 export const brand = {
   // ── Site Identity ──────────────────────────────────────────────────────────
-  name: 'Small Business Starter',
-  tagline: 'Профессиональная компания которой Вы можете доверять.',
+  name: 'Astro 6',
+  tagline: 'Компания профи , которой Вы можете доверять.',
   description:
-    //A fast, mobile-first small-business website template built with Astro 6 and Tailwind v4. 
-    'Fully customisable for any trade or service business.',
+    'Быстрые и крутые работы которые будут проверены временем',
   url: 'https://example.com',
-  locale: 'en_US',
+  locale: 'ru_RU',
 
   // ── Fonts ──────────────────────────────────────────────────────────────────
   // To swap fonts: change the `name` values here AND update astro.config.mjs
   // to match (both must stay in sync so Astro can optimise the correct files).
   fonts: {
     body: 'Inter',
-    display: 'Oswald',
+    display: 'Manrope',
   },
 
   // ── Colour Palette ─────────────────────────────────────────────────────────

@@ -11,21 +11,21 @@
  */
 
 export const client = {
-  name: 'Small Business Starter',
+  name: 'Малый Бизнес',
   email: 'hello@example.com',
-  phoneForTel: '555-867-53',
-  phoneFormatted: '(555) 867-5309',
-  /** Business / contractor license number. Displayed in the header and footer
-   *  as a trust signal. Set to an empty string to hide it. */
-  license: 'Lic# 123456',
+  phoneForTel: '+7-495-123-45-67',
+  phoneFormatted: '+7 (495) 123-45-67',
+  /** Номер лицензии подрядчика. Отображается в шапке и подвале
+   *  как сигнал доверия. Установите пустую строку, чтобы скрыть. */
+  license: 'Лиц# 123456',
   address: {
-    lineOne: '123 Main Street',
-    lineTwo: 'Suite 100',
-    city: 'Moscow',
-    state: 'CO',
-    zip: '80206',
-    country: 'US',
-    mapLink: 'https://maps.app.goo.gl/example',
+    lineOne: 'ул. Примерная, д. 123',
+    lineTwo: 'офис 100',
+    city: 'Москва',
+    state: 'Московская область',
+    zip: '101000',
+    country: 'RU',
+    mapLink: 'https://yandex.ru/maps/example',
   },
   socials: {
     facebook: 'https://www.facebook.com/',

@@ -8,16 +8,16 @@ import { Image } from 'astro:assets';
 import { brand } from '../config/brand';
 
 const team = [
-  { name: 'John Smith',   role: 'Founder & Lead Technician', image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80' },
-  { name: 'Maria Garcia', role: 'Operations Manager',        image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80' },
-  { name: 'David Chen',   role: 'Senior Technician',         image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80' },
+  { name: 'Иван Петров',   role: 'Основатель и главный специалист', image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80' },
+  { name: 'Мария Соколова', role: 'Операционный менеджер',          image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80' },
+  { name: 'Дмитрий Козлов', role: 'Старший специалист',             image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80' },
 ];
 ---
 
-<BaseLayout title="About Us" description={`Learn about ${brand.name} — our story, team, and commitment to quality service.`}>
+<BaseLayout title="О нас" description={`Узнайте больше о ${brand.name} — наша история, команда и приверженность качественному обслуживанию.`}>
   <Header slot="header" />
 
-  <Banner title="About Us" />
+  <Banner title="О нас" />
 
   <!-- Story -->
   <section class="py-section">
@@ -33,13 +33,13 @@ const team = [
         />
       </div>
       <div class="space-y-5">
-        <span class="text-topper font-bold uppercase tracking-widest text-accent">Our Story</span>
-        <h2 class="font-heading text-h2 font-bold uppercase text-text">Built on trust, driven by quality</h2>
+        <span class="text-topper font-bold uppercase tracking-widest text-accent">Наша история</span>
+        <h2 class="font-heading text-h2 font-bold uppercase text-text">Построены на доверии, движимые качеством</h2>
         <p class="text-text-muted leading-relaxed">
-          What started as a one-person operation has grown into a trusted local team. For over 15 years, we've served homeowners and businesses with reliable, high-quality work — and we plan to keep doing just that for decades to come.
+          То, что начиналось как работа одного человека, выросло в надёжную местную команду. Уже более 15 лет мы обслуживаем домовладельцев и бизнес, предоставляя надёжные услуги высокого качества — и планируем продолжать это десятилетиями.
         </p>
         <p class="text-text-muted leading-relaxed">
-          Every member of our crew is licensed, insured, and background-checked. We treat your property with the same care we'd give our own, and we stand behind every job with a satisfaction guarantee.
+          Каждый член нашей команды имеет лицензию, застрахован и прошёл проверку биографии. Мы относимся к вашей собственности с той же заботой, что и к своей, и гарантируем удовлетворённость от каждой выполненной работы.
         </p>
       </div>
     </div>
@@ -49,8 +49,8 @@ const team = [
   <section class="bg-surface py-section">
     <div class="mx-auto max-w-site px-4 sm:px-6">
       <div class="mx-auto mb-10 max-w-2xl text-center">
-        <span class="text-topper font-bold uppercase tracking-widest text-accent">Our Team</span>
-        <h2 class="mt-2 font-heading text-h2 font-bold uppercase text-text">Meet the crew</h2>
+        <span class="text-topper font-bold uppercase tracking-widest text-accent">Наша команда</span>
+        <h2 class="mt-2 font-heading text-h2 font-bold uppercase text-text">Познакомьтесь с командой</h2>
       </div>
 
       <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">

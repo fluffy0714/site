@@ -14,9 +14,9 @@ export default defineConfig({
   fonts: [
     {
       provider: fontProviders.google(),
-      name: 'Oswald',
+      name: 'Manrope',
       cssVariable: '--font-display',
-      weights: ['400', '600', '700'],
+      weights: ['400', '500', '600', '700', '800'],
       styles: ['normal'],
     },
     {
