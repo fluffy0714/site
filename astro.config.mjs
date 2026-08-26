@@ -6,7 +6,7 @@ import robotsTxt from 'astro-robots-txt';
 
 export default defineConfig({
   site: 'https://sun-technik.ru',
-  base: '/site',
+  //base: '/site',
   output: 'static',
 
   integrations: [sitemap(), robotsTxt()],
